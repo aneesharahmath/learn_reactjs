@@ -1,0 +1,17 @@
+/* p.p2 {
+  color: red;
+}
+#content {
+  background-color: rgb(4, 121, 121);
+  padding: 20px;
+} */
+
+div p a {
+  color: purple;
+}
+
+a[href] {
+  background-color: blueviolet;
+  text-decoration: none;
+  text-transform: uppercase;
+}
